@@ -10,9 +10,9 @@ function App() {
     const [darkMode, setDarkMode] = useState(false);
 
     const heroImage = [
-      {url: 'http://localhost:3000/pictures/etna.JPG', alt: 'Beo4'},
-      {url: 'http://localhost:3000/pictures/guate1.jpg', alt: 'Beo4'},
-      {url: 'http://localhost:3000/pictures/guate2.jpg', alt: 'Beo4'},
+      {url: 'http://localhost:3000/pictures/etna.jpg', alt: 'Beo4'},
+      {url: 'http://localhost:3000/pictures/guate1.jpg', alt: 'guate1'},
+      {url: 'http://localhost:3000/pictures/guate2.jpg', alt: 'guate2'},
     ]
   
     return (
